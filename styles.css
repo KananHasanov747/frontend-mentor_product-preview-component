@@ -1,11 +1,11 @@
 @font-face {
     font-family: Fraunces;
-    src: url("./font/Fraunces/static/Fraunces_9pt/Fraunces_9pt-Bold.ttf");
+    src: url("./fonts/Fraunces/static/Fraunces_9pt/Fraunces_9pt-Bold.ttf");
 }
 
 @font-face {
     font-family: Montserrat;
-    src: url("./font/Montserrat/static/Montserrat-Regular.ttf");
+    src: url("./fonts/Montserrat/static/Montserrat-Regular.ttf");
 }
 
 * {
